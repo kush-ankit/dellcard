@@ -1,0 +1,17 @@
+.App{
+    padding: 20px;
+  
+  }
+  
+  .insideApp{
+    background-color: silver;
+
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .card{
+    height: 250px;
+    width: 350px;
+  }

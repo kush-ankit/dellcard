@@ -1,0 +1,17 @@
+.mainCard {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.mainCard>* {
+    flex: 0 0 33.3333%;
+}
+
+
+.de{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
